@@ -1,0 +1,20 @@
+header {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 5em;
+}
+
+.description {
+    margin: 20px;
+}
+
+.buttons {
+    margin: 50px;
+}
+
+.buttons a {
+    margin: 20px;
+}

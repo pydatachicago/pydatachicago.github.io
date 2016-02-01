@@ -22,3 +22,7 @@ header h1 {
 .buttons a {
     margin: 20px;
 }
+
+.header-link {
+	padding: 30px;
+}

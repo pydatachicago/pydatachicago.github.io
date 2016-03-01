@@ -26,3 +26,15 @@ header h1 {
 .header-link {
 	padding: 30px;
 }
+
+.headshot {
+    width:230px;
+    height: 230px;
+    border-radius: 115px;
+    margin: 15px;
+}
+
+figure {
+    text-align: center;
+    margin: 20px;
+}

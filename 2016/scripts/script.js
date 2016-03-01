@@ -1,6 +1,6 @@
 $(document).ready(function() {
-    var love = ["people", "data scientists", "Julia developers",
-                "Python developers", "R developers", "open source enthusiasts",
+    var love = ["people", "data scientists", "computational scientists",
+                "Python developers", "open source enthusiasts",
                 "thinkers", "community members", "scientists"];
 
     var index = 0;

@@ -2,7 +2,8 @@ $(document).ready(function() {
     var love = ["data", "Chicago", "open source", "Python", "community",
                 "Julia", "data visualizations", "R", "knowledge", "learning",
                 "machine learning", "statistics", "each other", "pizza", 
-                "open data", "solving problems"];
+                "open data", "solving problems", "Bayes' theoreom", "Monte Carlo simulations",
+                "Markov models", "scikit-learn", "pandas", "Bayesian inference"];
 
     var index = 0;
     $(".header-swap").text(love[0]);
@@ -15,5 +16,5 @@ $(document).ready(function() {
         }
 
         $(".header-swap").text(love[index]);
-    }, 2500);
+    }, 2000);
 });

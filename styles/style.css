@@ -15,16 +15,13 @@ header h1 {
     margin: 20px;
 }
 
-.buttons {
-    margin: 50px;
-}
-
 .buttons a {
-    margin: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
 .header-link {
-	padding: 30px;
+    padding: 30px;
 }
 
 .headshot {
@@ -37,4 +34,21 @@ header h1 {
 figure {
     text-align: center;
     margin: 20px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/*Helper classes*/
+
+.mt-1{
+    margin-top: 40px;
+}
+
+.mt-2{
+    margin-top: 80px;
 }
